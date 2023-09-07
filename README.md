@@ -38,7 +38,7 @@
 
 - :art: Me gusta pintar.
 
-- 📫 Feel free to reach me out **solbilyk14@gmail.com**
+- 📫 Escribime a **solbilyk14@gmail.com**
 
 <!--Intro end-->
 
@@ -74,7 +74,9 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
   
 </div>
 
