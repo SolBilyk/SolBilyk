@@ -32,7 +32,7 @@
 
 - :microscope: Soy Bromatologa - UnCuyo.
 
-- :white_check_mark: Tambien estoy haciendo un curso de Codo a Codo - Python
+- :white_check_mark: Full Stack Python - Codo a Codo
 
 - :round_pushpin: Soy de General Alvear, Mendoza.
 
