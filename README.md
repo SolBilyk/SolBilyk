@@ -1,44 +1,37 @@
-### Hola!! 👋
-
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!--gatito-->
+<a target="_blank" align="center">
+  <img align="right" top="400" height="170" width="300" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
+</a>
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">👋 Soy Sol 👋</h1></summary>
+    <summary><h1 style="display: inline-block">👋 I'm Sol 👋</h1></summary>
   </ul>
 </div>
 
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
+</p>
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming :D </h2></summary>
-  </ul>
-</div>
 
 
 <!--Intro start-->
-- :book: Actualmente estoy estudiando la carrera de Tecnicatura en Programacion en la U.T.N.
+- :book: At the moment i'm studyin Tecnicatura en Programacion en U.T.N.
 
-- :microscope: Soy Bromatologa - UnCuyo.
+- :microscope: I'm also a Bromatologist (food science) - UnCuyo.
 
 - :white_check_mark: Full Stack Python - Codo a Codo
 
-- :round_pushpin: Soy de General Alvear, Mendoza.
+- :round_pushpin: I'm General Alvear, Mendoza.
 
-- :art: Me gusta pintar.
+- :art: I love painting.
 
-- 📫 Escribime a **solbilyk14@gmail.com**
+- 📫 You can e-mail me to: **solbilyk14@gmail.com**
 
 <!--Intro end-->
 
@@ -62,18 +55,21 @@
 
 
 <!--profile visit count-->
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SolBilyk&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
+# 📊 GitHub Stats: 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SolBilyk&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact ) 
 
 ### 😂 Random Dev Meme
+<div align="center">
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 </div>
 
+
+
+
+<p align="center"">
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</p>
+<br>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
