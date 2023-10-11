@@ -21,7 +21,7 @@
 
 
 <!--Intro start-->
-- :book: At the moment i'm studyin Tecnicatura en Programacion en U.T.N.
+- :book: At the moment i'm studying Tecnicatura en Programacion en U.T.N.
 
 - :microscope: I'm also a Bromatologist (food science) - UnCuyo.
 
